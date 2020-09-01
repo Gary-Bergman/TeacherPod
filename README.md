@@ -4,7 +4,8 @@
 
 [Deployed Link](https://teachpod.herokuapp.com/)
 
-## Test
+## Accounts 
+TEST ACCOUNTS
 
 Parent:
 * User: gbergman@email.com
@@ -25,7 +26,7 @@ With the implementation of TeachPod, the world will be ready to preemptively pre
 ## Index
 - [TeachPod](#teachpod)
   - [Deployed](#Deployed)
-  - [Test Accounts](#Test)
+  - [Test Accounts](#Accounts)
   - [About](#about)
   - [Index](#index)
   - [User-Story](#user-story)
