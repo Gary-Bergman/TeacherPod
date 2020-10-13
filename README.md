@@ -2,7 +2,7 @@
 
 ## Deployed
 
-[Deployed Link](https://teachpod.herokuapp.com/)
+[Deployed Link](https://teach-pod-great.herokuapp.com/)
 
 ## Accounts 
 TEST ACCOUNTS
